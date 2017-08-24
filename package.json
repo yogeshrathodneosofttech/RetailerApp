@@ -1,17 +1,19 @@
 {
-  "name": "ng2-admin",
+  "name": "RetailerApp",
   "version": "1.0.0",
-  "description": "Angular and Bootstrap 4 Admin Template.",
-  "author": "Akveo <contact@akveo.com>",
-  "homepage": "http://akveo.github.io/ng2-admin/",
+  "description": "Built with Angular and Bootstrap 4.",
+  "author": {
+    "Aaron Furtado": "Developer",
+    "Yogesh Rathod": "Developer",
+    "Sumant Ghorpade": "Mentor",
+    "Shashikant Bhosale": "Mentor",
+    "Siddharth Mehta": "Department Head"
+  },
+  "homepage": "test",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akveo/ng2-admin.git"
+    "url": "test"
   },
-  "bugs": {
-    "url": "https://github.com/akveo/ng2-admin/issues"
-  },
-  "license": "MIT",
   "scripts": {
     "ng": "ng",
     "rimraf": "rimraf",
